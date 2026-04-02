@@ -2,7 +2,7 @@
 
 A comprehensive desktop application designed for automated pickleball match analysis using computer vision and deep learning.
 
-![Analysis Preview](outputs/analysis_output.mp4) <!-- Replace with a gif or image link if available -->
+![Analysis Preview](outputs/preview.jpg)
 
 ## Features
 

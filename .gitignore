@@ -39,3 +39,4 @@ outputs/
 *.json
 !data/test.mp4
 !models/*.pt
+!outputs/preview.jpg
