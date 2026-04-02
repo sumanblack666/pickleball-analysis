@@ -81,6 +81,14 @@ python main.py --source data/test.mp4 --device 0 --imgsz 960 --heatmap
 - [OpenCV](https://opencv.org/): For high-performance video frame processing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): For seamless YouTube video integration.
 
+## Status & Contributing
+
+⚠️ **Note:** This project is still in early development and may contain bugs. 
+
+Contributions are welcome! If you encounter issues or have ideas for improvements, please feel free to:
+- Open an **Issue** to report a bug.
+- Submit a **Pull Request (PR)** with your fixes or enhancements.
+
 ## License
 
-[MIT](LICENSE) <!-- Update this based on your preference -->
+Distributed under the MIT License. See `LICENSE` for more information.
