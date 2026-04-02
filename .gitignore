@@ -33,10 +33,10 @@ env/
 .idea/
 
 # Project Specific
-outputs/
+outputs/*
+!outputs/preview.jpg
 *.mp4
 *.csv
 *.json
 !data/test.mp4
 !models/*.pt
-!outputs/preview.jpg
