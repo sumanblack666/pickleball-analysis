@@ -1,0 +1,6 @@
+ultralytics
+customtkinter
+numpy
+opencv-python
+pillow
+yt-dlp
